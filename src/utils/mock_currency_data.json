@@ -1,0 +1,102 @@
+[
+    {
+      "name": "United States Dollar",
+      "symbol": "$",
+      "code": "USD"
+    },
+    {
+      "name": "Canadian Dollar",
+      "symbol": "CA$",
+      "code": "CAD"
+    },
+    {
+      "name": "Australian Dollar",
+      "symbol": "A$",
+      "code": "AUD"
+    },
+    {
+      "name": "New Zealand Dollar",
+      "symbol": "NZ$",
+      "code": "NZD"
+    },
+    {
+      "name": "Singapore Dollar",
+      "symbol": "S$",
+      "code": "SGD"
+    },
+    {
+      "name": "Hong Kong Dollar",
+      "symbol": "HK$",
+      "code": "HKD"
+    },
+    {
+      "name": "New Taiwan Dollar",
+      "symbol": "NT$",
+      "code": "TWD"
+    },
+    {
+      "name": "Barbadian Dollar",
+      "symbol": "Bds$",
+      "code": "BBD"
+    },
+    {
+      "name": "Bahamian Dollar",
+      "symbol": "B$",
+      "code": "BSD"
+    },
+    {
+      "name": "Belize Dollar",
+      "symbol": "BZ$",
+      "code": "BZD"
+    },
+    {
+      "name": "Bermudian Dollar",
+      "symbol": "BD$",
+      "code": "BMD"
+    },
+    {
+      "name": "Brunei Dollar",
+      "symbol": "B$",
+      "code": "BND"
+    },
+    {
+      "name": "East Caribbean Dollar",
+      "symbol": "EC$",
+      "code": "XCD"
+    },
+    {
+      "name": "Fiji Dollar",
+      "symbol": "FJ$",
+      "code": "FJD"
+    },
+    {
+      "name": "Guyanese Dollar",
+      "symbol": "G$",
+      "code": "GYD"
+    },
+    {
+      "name": "Jamaican Dollar",
+      "symbol": "J$",
+      "code": "JMD"
+    },
+    {
+      "name": "Liberian Dollar",
+      "symbol": "L$",
+      "code": "LRD"
+    },
+    {
+      "name": "Namibian Dollar",
+      "symbol": "N$",
+      "code": "NAD"
+    },
+    {
+      "name": "Solomon Islands Dollar",
+      "symbol": "SI$",
+      "code": "SBD"
+    },
+    {
+      "name": "Surinamese Dollar",
+      "symbol": "Sr$",
+      "code": "SRD"
+    }
+  ]
